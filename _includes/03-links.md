@@ -1,4 +1,4 @@
-- 5 link: using __\[Name](url)__
+- 5 Link: using __\[Name](url)__
   - example:
   
   ~~~~
