@@ -12,12 +12,18 @@
   
   - # HEAD  
   - ## HEAD
+  
+ 
+_____________________
+
 - 2 Img: using __!\[name](url)__
   - example : 
   
   ~~~
     ![name](url) 
   ~~~
+ 
+_____________________
 
 - 3 Code: using __\~~~ \~\~\~__
   - example :
@@ -30,7 +36,9 @@
         
     ~~~~
   
-    
+  
+_____________________
+   
 - 4 List: 
   notice that the spaces in front of the \* , and the \. behand the number 
   - example : 
@@ -50,5 +58,7 @@
     * list2.2
       1. what
   
+_____________________
+ 
     
  
