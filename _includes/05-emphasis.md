@@ -1,4 +1,4 @@
-- 6 emphasis : using __\_\_Text\_\___ _\*Text\*_
+- 6 Emphasis : using __\_\_Text\_\___ _\*Text\*_
   - example:
   
   ~~~~
